@@ -1,6 +1,6 @@
 # 💫 About Me:
-👩🏻‍💻 Computer Science B.S/ Data Science M.S. Dual-Degree Student at Hofstra University, NY <br/>
-<br>👩🏻‍🎓 Studied Computer Science at the University of Otago, New Zealand<br/>
+👩🏻‍💻 Aspiring Machine Learning/AI Engineer <br/>
+<br>👩🏻‍🎓 Computer Science B.S/ Data Science M.S. Dual-Degree Student at Hofstra University, NY<br/>
 <br>💭 Currently learning about LLMs and AI Agents!<br/>
 
 ### 🔝 Top Contributed Repo
