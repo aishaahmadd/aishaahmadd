@@ -4,5 +4,5 @@
 💭 Currently learning about LLMs and AI Agents!<br/>
 🌷 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/aishaahmad-cs)<br/>
 
-[![Aisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishaahmadd)](https://github.com/anuraghazra/github-readme-stats)
+![Aisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=aishaahmadd&show_icons=true&theme=gruvbox)
 
