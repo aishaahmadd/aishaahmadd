@@ -1,9 +1,7 @@
-## Hi there, I'm Aisha! 👋
-
 # 💫 About Me:
 👩🏻‍💻 Computer Science B.S/ Data Science M.S. Dual-Degree Student at Hofstra University, NY <br/>
+<br>👩🏻‍🎓 Studied Computer Science at the University of Otago, New Zealand<br/>
 <br>💭 Currently learning about LLMs and AI Agents!<br/>
-<br>🌷 Feel free to connect with me on [LinkedIn](www.linkedin.com/in/aishaahmad-cs)<br/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=aishaahmadd&limit=5&theme=dark&combine_all_yearly_contributions=true)
