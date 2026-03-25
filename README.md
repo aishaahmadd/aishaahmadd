@@ -1,6 +1,7 @@
 # 💫 About Me:
 👩🏻‍💻 Aspiring Machine Learning/AI Engineer <br/>
-<br>👩🏻‍🎓 Computer Science B.S/Data Science M.S. Dual-Degree Student at Hofstra University, NY<br/>
+
+<br>👩🏻‍🎓 Computer Science B.S at Hofstra University, NY / Incoming Data Science M.S. at NYU <br/>
 <br>🍎 Ex Apple AI SWE Intern<br/>
 <br>💭 Currently learning about LLMs and AI Agents!<br/>
 
